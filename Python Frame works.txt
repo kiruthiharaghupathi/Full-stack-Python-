@@ -1,0 +1,13 @@
+Python Frame works:
+
+FastAPI – High-performance, fastest API framework
+
+Django – Efficient for large-scale, secure applications
+
+Flask – Lightweight and flexible framework
+
+Tornado – Efficient for real-time and asynchronous apps
+
+Dash – Efficient for data-driven dashboards
+
+Hugging Face (Transformers) – Efficient for AI & NLP solutions
